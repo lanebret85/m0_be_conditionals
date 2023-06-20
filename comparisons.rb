@@ -53,22 +53,28 @@ puts number_students <= 21
 # Make sure YOU can explain it that way!
 
 puts 4 < 9
-#YOU DO: Explain.
-
+# YOU DO: Explain.
+# This is printing the outcome of the question, "Is the value of integer 4 less than the value of integer 9?"
+# which is true and should print: true
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-
+# This is assigning the value of integer 3 to a variable called books, and then it is printing the outcome of the question,
+# "Is the value of integer 4 less than the value of the variable stored in the variable books?" which should print: false
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-
+# This is assigning the value of integer 6 to a variable called friends, and then it is assigning the value of integer 2 to a variable
+# called siblings, and then it is printing the outcome of the question, "Is the value stored in the variable friends greater than 
+# the value stored in the variable siblings?" which should print: true
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+# This is assigning the value of integer 9 to a variable called attendees, and then it is assigning the value of integer 8 to a variable
+# called meals, and then it is printing the outcome of the question, "Is the value stored in the variable attendees not equal to 
+# the value stored in the variable meals?" which should print true
 
 #-------------------
 # PART 3: Logical Operators
