@@ -96,15 +96,18 @@ age = 1
 
 # YOU DO:
 # Determine if the dog loves to play and loves treats
-
+puts loves_to_play && loves_treats
 
 # Determine if the dog loves to play and loves the dog park
-
+puts loves_to_play && loves_dog_park
 
 # Determine if the dog loves to play or loves the dog park
-
+puts loves_to_play || loves_dog_park
 
 # Determine if the dog loves to play and is a puppy
+puts loves_to_play && age < 2
 
 # What did your final line of code evaluate to? Why do you think that is? Explain.
-# ANSWER:
+# ANSWER: It should evaluate to true because the variable loves_to_play has an assigned value of true
+# and because I asked the question, "Does the variable age have an assigned value that is less than the value of integer 2?"
+# which it does. Since both conditions are true and we're using the 'and' comparison, the final line of code should evaluate to true
