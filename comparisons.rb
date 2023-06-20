@@ -74,7 +74,7 @@ puts attendees != meals
 # YOU DO: Explain.
 # This is assigning the value of integer 9 to a variable called attendees, and then it is assigning the value of integer 8 to a variable
 # called meals, and then it is printing the outcome of the question, "Is the value stored in the variable attendees not equal to 
-# the value stored in the variable meals?" which should print true
+# the value stored in the variable meals?" which should print: true
 
 #-------------------
 # PART 3: Logical Operators
