@@ -2,7 +2,7 @@
 
 1. When is it useful to use a `conditional` in your code?
 
-Whenver you need to code for multiple outcomes. If you might want to execute different code depending on one or more factors, conditionals are the way to go.
+Whenever you need to code for multiple outcomes. If you might want to execute different code depending on one or more factors, conditionals are the way to go.
 
 1. If you could do this assignment over, what would you do differently?
 
